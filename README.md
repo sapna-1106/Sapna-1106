@@ -1,28 +1,25 @@
 
-# 👋 Hi, I'm SAPNA  CHAUHAN ...
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&color=00C7B7&center=true&vCenter=true&width=600&lines=Hey+I'm+Sapna+👋;HTML+%7C+Python+%7C+C+%7C+Adobe+Photoshop;Creative+Developer+%26+Cybersecurity+Learner)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Sapna Chauhan </h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
----
+<img width="300" align="right" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="banner">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayuship2005&label=Profile%20views&color=0e75b6&style=flat" alt="ayuship2005" /> </p>
+
+- 🌱 I’m currently learning BCA 
+
+
+- 💬 Ask me about PYTHON ,C, HTML , ADOBE PHOTOSHOP 
+
+- 📫 How to reach me sapnachauhan1106@gmail.com
+
+-  ✨ “Code. Create. Secure. Repeat.” ✨
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/_sapna._.chauhan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushipyal" height="30" width="40" /></a>
 </p>
-
----
-
-### 💫 About Me  
-- 💻 Exploring the world of *Web & Code*
-- 🎓 BCA 2nd Year Student
-- 🌱 Currently exploring Data Structures & Algorithms AND learning *Python* & *C* 
-- 🎨 Love creating visuals in *Adobe Photoshop*  
-- 🔗 Passionate about building new projects and improving my coding skills
-- 📫 Contact: sapnachauhan1106@gmail.com
-
-> ✨ “Code. Create. Secure. Repeat.” ✨  
-
----
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sapnachauhan1106@gmail.com) 
